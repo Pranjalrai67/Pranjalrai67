@@ -8,9 +8,9 @@
 ---
 
 ## 🚀 Tech Stack  
-- **Languages:** C++, Java, Python, JavaScript  
-- **Web Development:** React.js, Node.js, Express.js, TailwindCSS, Bootstrap  
-- **Databases:** MySQL, MongoDB  
+- **Languages:** Java, Python, JavaScript  
+- **Web Development:** React.js, Node.js, Express.js  
+- **Databases:** MySQL,PostgreSQL, MongoDB  
 - **Tools & DevOps:** Git, GitHub, Docker, Jenkins, Maven, Terraform, Ansible/Puppet, Postman  
 - **Other Interests:** Machine Learning, Data Structures & Algorithms, System Design  
 
