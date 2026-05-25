@@ -2,14 +2,15 @@
 
 🎓 BTech CSE Core Student at **VIT Bhopal University**  
 💻 Passionate **Full-Stack Web Developer** | Exploring **Machine Learning & AI**  
-⚡ Interested in **DevOps, Cloud, and System Design**  
+⚡ Interested in **DevOps and Cloud**  
 📚 Always learning & improving my **Networking,communication and many other skills**  
 
 ---
 
 ## 🚀 Tech Stack  
-- **Languages:** Java, Python, JavaScript  
-- **Web Development:** React.js, Node.js, Express.js  
+- **Languages:** Java, Python, JavaScript ,c++
+- **Web Development:** React.js, Spring boot
+- **Security:** Spring Security,OAuth,JWT
 - **Databases:** MySQL,PostgreSQL, MongoDB  
 - **Tools & DevOps:** Git, GitHub, Docker, Jenkins, Maven, Terraform, Ansible/Puppet, Postman  
 - **Other Interests:** Machine Learning, Data Structures & Algorithms, System Design  
@@ -19,6 +20,7 @@
 ## 📌 Projects  
 🔹 **Weather Forecasting Web App** → Full-stack app with daily/hourly forecasts, integrated with CI/CD pipeline.  
 🔹 **Effective-Medical-Assistance** → A Full Stack website designed to enhance medical diagnosis, information access, and patient management .  
+🔹 **Polling Application** → A Full Stack website designed to conduct surveys by means of polls.  
 🔹 **LANA** → A language learing Assistant which helps in Learning a new language.    
 
 ---
